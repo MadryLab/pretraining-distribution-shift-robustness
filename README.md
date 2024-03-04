@@ -4,8 +4,8 @@ This repository contains the code for our paper:
 
 **Ask Your Distribution Shift if Pre-Training is Right for You** </br>
 *Benjamin Cohen-Wang, Joshua Vendrow, Aleksander Madry* </br>
-**Paper**: https://arxiv.org/abs/TODO <br>
-**Blog post**: http://gradientscience.org/TODO/
+**Paper**: https://arxiv.org/abs/2403.00194 <br>
+**Blog post**: https://gradientscience.org/pretraining-robustness/
 
 ![](assets/pretraining_robustness.png)
 
